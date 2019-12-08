@@ -1,0 +1,93 @@
+WORLD POPULATION REPORT
+
+
+TABLE 1: Life Expectancy in Africa by Country
+
+Code Name             Region           LifeExp
+---- ---------------- ---------------- -------
+DZA  Algeria          Northern Africa   69.7
+AGO  Angola           Central Africa    38.3
+BEN  Benin            Western Africa    50.2
+BWA  Botswana         Southern Africa   39.3
+BFA  Burkina Faso     Western Africa    46.7
+BDI  Burundi          Eastern Africa    46.2
+CMR  Cameroon         Central Africa    54.8
+CPV  Cape Verde       Western Africa    68.9
+CAF  Central African  Central Africa    44.0
+TCD  Chad             Central Africa    50.5
+COM  Comoros          Eastern Africa    60.0
+COG  Congo            Central Africa    47.4
+COD  Congo; The Democ Central Africa    48.8
+CIV  Cote d-Ivoire    Western Africa    45.2
+DJI  Djibouti         Eastern Africa    50.8
+EGY  Egypt            Northern Africa   63.3
+GNQ  Equatorial Guine Central Africa    53.6
+ERI  Eritrea          Eastern Africa    55.8
+ETH  Ethiopia         Eastern Africa    45.2
+GAB  Gabon            Central Africa    50.1
+GMB  Gambia           Western Africa    53.2
+GHA  Ghana            Western Africa    57.4
+GIN  Guinea           Western Africa    45.6
+GNB  Guinea-Bissau    Western Africa    49.0
+KEN  Kenya            Eastern Africa    48.0
+LSO  Lesotho          Southern Africa   50.8
+LBR  Liberia          Western Africa    51.0
+LBY  Libyan Arab Jama Northern Africa   75.5
+MDG  Madagascar       Eastern Africa    55.0
+MWI  Malawi           Eastern Africa    37.6
+MLI  Mali             Western Africa    46.7
+MRT  Mauritania       Western Africa    50.8
+MUS  Mauritius        Eastern Africa    71.0
+MYT  Mayotte          Eastern Africa    59.5
+MAR  Morocco          Northern Africa   69.1
+MOZ  Mozambique       Eastern Africa    37.5
+NAM  Namibia          Southern Africa   42.5
+NER  Niger            Western Africa    41.3
+NGA  Nigeria          Western Africa    51.6
+REU  Reunion          Eastern Africa    72.7
+RWA  Rwanda           Eastern Africa    39.3
+SHN  Saint Helena     Western Africa    76.8
+STP  Sao Tome and Pri Central Africa    65.3
+SEN  Senegal          Western Africa    62.2
+SYC  Seychelles       Eastern Africa    70.4
+SLE  Sierra Leone     Western Africa    45.3
+SOM  Somalia          Eastern Africa    46.2
+ZAF  South Africa     Southern Africa   51.1
+SDN  Sudan            Northern Africa   56.6
+SWZ  Swaziland        Southern Africa   40.4
+TZA  Tanzania         Eastern Africa    52.3
+TGO  Togo             Western Africa    54.7
+TUN  Tunisia          Northern Africa   73.7
+UGA  Uganda           Eastern Africa    42.9
+ESH  Western Sahara   Northern Africa   49.8
+ZMB  Zambia           Eastern Africa    37.2
+ZWE  Zimbabwe         Eastern Africa    37.8
+
+
+TABLE 2: Europe Population & Land Area (37 countries)
+
+Population:
+	Largest:     146,934,000  Russian Federati
+	Smallest:         25,000  Gibraltar
+	Mean:         16,592,509
+	Total:       730,070,400
+Land Area (in sq km):
+	Largest:      17,075,400  Russian Federati
+	Smallest:              2  Monaco
+	Mean:            522,425
+	Total:        22,986,712
+
+
+TABLE 3: Life Expectancy by Continent
+
+	Continent     Highest Lowest Average
+	------------- ------- ------ -------
+	Africa         76.8    37.2   52.6
+	Asia           81.6    45.9   67.4
+	Europe         83.5    45.9   75.1
+	North America  79.4    45.9   73.0
+	Oceania        79.8    45.9   69.7
+	South America  76.1    45.9   70.9
+
+
+<<<< END OF REPORT >>>>
